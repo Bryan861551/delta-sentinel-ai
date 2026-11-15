@@ -1,0 +1,10 @@
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.venv/
+# raw satellite files are huge: never commit them
+*.h5
+*.hgt
+*.nc4
+*.tif

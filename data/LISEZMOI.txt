@@ -1,0 +1,1 @@
+Copy the 'data' folder produced by preparer_appli.py here (index.json, opera/, nisar/, dem/, pluie.json).
